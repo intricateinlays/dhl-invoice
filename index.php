@@ -92,7 +92,7 @@ $invoice_items = array();
       </tr>
     <?php endforeach; ?>
 
-    <?php for ($i = 0; $i < 5; $i++): ?>
+    <?php for ($i = 0; $i < 3; $i++): ?>
       <tr>
         <td class="ol">&nbsp;</td>
         <td class="ol" colspan="3">&nbsp;</td>
